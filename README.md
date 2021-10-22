@@ -1,6 +1,6 @@
 ![magia](https://user-images.githubusercontent.com/68760595/138380493-b0ff4361-3fba-483e-9dfc-a6c065d46179.png)
 
-#steps
+# steps
 
 1. Install express:
 
@@ -20,16 +20,20 @@ localhost:3000/
 
 localhost:3000/:
 
-+ 3.1 (change the names)
+localhost:3000/abracadabra/usuarios
+
+![json](https://user-images.githubusercontent.com/68760595/138381997-d4cdc314-6e1d-4874-bf08-c84ed23d6fe8.png)
+
+
++ 3.1 (choose a name)
 
   localhost:3000/abracadabra/juego/aquiles
   
   ```
   {"usuario":"aquiles","message":"usuario encontrado"}
   ```
-  ![usuarios](https://user-images.githubusercontent.com/68760595/138381334-1d330bbc-7984-4ddc-bcf0-de7fa296fc25.png)
 
-+ 3.2 (choose from 1 to 4)
+4. (choose from 1 to 4)
 
 localhost:3000/abracadabra/conejo/1
 

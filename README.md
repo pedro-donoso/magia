@@ -14,7 +14,14 @@ npm install express
 npm init
 ```
 
-3. Options:
+3. Run:
+
+```
+node index.js
+
+```
+
+4. Options:
 
 localhost:3000/
 
@@ -25,7 +32,7 @@ localhost:3000/abracadabra/usuarios
 ![json](https://user-images.githubusercontent.com/68760595/138381997-d4cdc314-6e1d-4874-bf08-c84ed23d6fe8.png)
 
 
-+ 3.1 (choose a name)
++ 4.1 (choose a name)
 
   localhost:3000/abracadabra/juego/aquiles
   
@@ -33,7 +40,7 @@ localhost:3000/abracadabra/usuarios
   {"usuario":"aquiles","message":"usuario encontrado"}
   ```
 
-4. (choose from 1 to 4)
+5. (choose from 1 to 4)
 
 localhost:3000/abracadabra/conejo/1
 

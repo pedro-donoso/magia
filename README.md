@@ -20,7 +20,7 @@ localhost:3000/
 
 localhost:3000/:
 
-  3.1 (change the name)
++ 3.1 (change the names)
 
   localhost:3000/abracadabra/juego/aquiles
   
@@ -29,5 +29,10 @@ localhost:3000/:
   ```
   ![usuarios](https://user-images.githubusercontent.com/68760595/138381334-1d330bbc-7984-4ddc-bcf0-de7fa296fc25.png)
 
-localhost:3000/:
++ 3.2 (choose from 1 to 4)
+
+localhost:3000/abracadabra/conejo/1
+
+![conejo](https://user-images.githubusercontent.com/68760595/138381765-3974cb08-9d18-4afa-beee-e8768583fa1e.png)
+
 

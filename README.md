@@ -14,4 +14,20 @@ npm install express
 npm init
 ```
 
+3. Options:
+
+localhost:3000/
+
+localhost:3000/:
+
+  3.1 (change the name)
+
+  localhost:3000/abracadabra/juego/aquiles
+  
+  ```
+  {"usuario":"aquiles","message":"usuario encontrado"}
+  ```
+  ![usuarios](https://user-images.githubusercontent.com/68760595/138381334-1d330bbc-7984-4ddc-bcf0-de7fa296fc25.png)
+
+localhost:3000/:
 
